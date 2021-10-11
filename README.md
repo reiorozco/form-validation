@@ -1,7 +1,7 @@
 # form-validation
 Form validation in JavaScript.
 
-Practica cómo hacer la validación de formularios en JavaScript
+Practice How to do form validation in JavaScript
 
 Credits: Joy Shaheb
 
